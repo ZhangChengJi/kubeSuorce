@@ -2,7 +2,7 @@
 
 **kubenetes 所以资料会以本人的使用经历以连载的方式在这里发生😋。**
 
-![wallhaven-ymwmek](../../Pictures/wallhaven-ymwmek.jpg)
+![wallhaven-ymwmek](https://github.com/ZhangChengJi/kubeSuorce/blob/master/image/wallhaven-ymwmek.jpg)
 
 ### 包含
 
